@@ -23,10 +23,10 @@ The relative effectiveness numbers are separate for WWTPs and all other sources.
 <a href="http://chesapeakebay.net">The Chespeake Bay Program</a>
 
 # Contact Information
-Guido Yactayo</br>
-UMCES / Chesapeake Bay Program Office 410 Severn Ave Suite 112</br>
-Annapolis, MD</br>
-21403 USA</br>
+Guido Yactayo
+Chesapeake Bay Program Office 
+410 Severn Ave Suite 112
+Annapolis, MD 21403 USA
 gyactayo@chesapeakebay.net
 
 
